@@ -1,4 +1,5 @@
 # T-WEB-501-MPL-5-1-jobboard-jeremy.nayet
+# Premier projet sur une durée de 3 semaines
 
 -----Pour importer la BDD:
 - copier le fichier "job_board.sql" (export de la BDD le 05/10/20 ~14h)
